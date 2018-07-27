@@ -1,0 +1,15 @@
+*.iml
+.gradle
+.idea
+build/*
+local.properties
+.DS_Store
+captures/*
+.externalNativeBuild
+*.class
+*.json
+*.dex
+app/app-debug.apk
+gradle.properties
+gradlew
+gradlew.bat
